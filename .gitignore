@@ -1,6 +1,6 @@
-__pycache__
-.vscode/
-CMakeFiles/
-CMakeCache.txt
-Makefile
-*.cmake
+**/__pycache__
+**/.vscode/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/Makefile
+**/*.cmake

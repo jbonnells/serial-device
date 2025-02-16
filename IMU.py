@@ -1,4 +1,11 @@
-# Julian Bonnells
+#!/usr/bin/env python3
+# -----------------------------------------------------------------------------
+# File: IMU.py
+# Author: Julian Bonnells
+# Description: Emulated IMU device which sends out simulated IMU rates and will
+#              also validate any received IMU rates with the original sent
+#              values.
+# -----------------------------------------------------------------------------
 
 import serial
 import socket
